@@ -1,6 +1,8 @@
 # 💫 About Me:
-Second Year engineering student in AI and Big Data looking for a 3-month-internship starting may 15th
 
+End of studies Research Engineering Student in Data Science and Machine Learning at ENSEA and CY Université Paris Cergy,
+Currently working at the ETIS research lab and looking for an end-of-studies internship 
+(6 months) starting March/April 2024
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayane-ghilene-58a30b192/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCMC8AjxaPsBiy9QNDI1HHnQ) 
